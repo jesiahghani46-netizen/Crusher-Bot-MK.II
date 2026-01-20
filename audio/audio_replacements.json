@@ -1,0 +1,8 @@
+{
+	"sh_boss_theme": { "File": "sh_boss_theme.ogg", "Type": "Music", "Name": "Sonic Hoshi Version", "LoopStart": "0" },
+	
+	"gsh_strain":	{ "File": "SFX/Strain.ogg", "Type": "Sound"},
+	"gsh_fall":	{ "File": "SFX/Fall.ogg", "Type": "Sound"},
+	"gsh_impact2":	{ "File": "SFX/Impact2.ogg", "Type": "Sound"},
+	"gsh_explosion1":	{ "File": "SFX/Explosion1.ogg", "Type": "Sound"},
+}
