@@ -1,0 +1,10 @@
+{
+  "crusherbotmkii_normal": {"File": "boss/crusherbotmk2.png", "Rect": "0,0,90,51", "Center": "45,17"},
+  "crusherbotmkii_hurt": {"File": "boss/crusherbotmk2.png", "Rect": "90,0,90,51", "Center": "45,17"},
+  
+  "crusherbotmkii_bullet_1": {"File": "boss/bullet.png", "Rect": "0,0,8,8", "Center": "4,4"},
+  "crusherbotmkii_bullet_2": {"File": "boss/bullet.png", "Rect": "8,0,8,8", "Center": "4,4"},
+  
+  "crusherbotmkii_laser": {"File": "boss/laser.png", "Rect": "0,0,20,96", "Center": "10,48"},
+  }
+}
